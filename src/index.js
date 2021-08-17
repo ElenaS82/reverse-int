@@ -4,5 +4,5 @@ module.exports = function reverse (n) {
   let arr1 = arr.reverse("");
   let strings2 = arr1.join("");
   let numberReverse = + strings2;
-   return numberReverse;
+  return numberReverse;
 }
