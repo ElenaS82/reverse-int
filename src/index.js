@@ -1,5 +1,5 @@
 module.exports = function reverse (n) {
-  let strings = String(Math.abs(number));
+  let strings = String(Math.abs(n));
   let arr = strings.split("");
   let arr1 = arr.reverse("");
   let strings2 = arr1.join("");
